@@ -13,7 +13,7 @@
 #### Step 2. Add the dependency
 ```java
 		dependencies {
-    	        compile 'com.github.myhcqgithub:Log:0.1'
+    	        compile 'com.github.myhcqgithub:Log:0.2'
     	}
 
 ```
