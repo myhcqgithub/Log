@@ -12,8 +12,8 @@
 ```  
 #### Step 2. Add the dependency
 ```java
-		dependencies {
-    	        compile 'com.github.myhcqgithub:Log:0.2'
+	dependencies {
+    	        compile 'com.github.myhcqgithub:Log:0.0.1'
     	}
 
 ```
